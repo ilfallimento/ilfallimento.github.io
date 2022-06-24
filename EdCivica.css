@@ -1,0 +1,207 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 2004px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 115px;
+  height: 115px;
+  margin: 73px 123px 0 auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 788px;
+  height: 737px;
+  background-image: none;
+  margin: -130px auto 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 637px;
+  height: 637px;
+  background-image: url("images/IDirittidelleDonne1.jpg");
+  background-position: 50% 50%;
+  margin: -699px auto 0 51px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 1111px;
+  width: 1129px;
+  height: auto;
+  margin: 81px 0 60px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 30px 19px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 49px 0 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 2;
+  font-size: 1.25rem;
+  margin: 41px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1475px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 102px;
+    margin-right: 99px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 695px;
+    height: 635px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 573px;
+    height: 573px;
+    margin-top: -629px;
+    margin-left: 71px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1515px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 73px;
+    margin-right: 60px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 720px;
+    height: 621px;
+    margin-top: 20px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 574px;
+    height: 574px;
+    margin-top: -587px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 610px;
+    margin-top: 20px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 0;
+    margin-left: 37px;
+    margin-right: 37px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1459px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 39px;
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    height: 520px;
+    width: 520px;
+    margin-top: 39px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 456px;
+    width: 456px;
+    margin-top: -488px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 668px;
+    margin-top: 39px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2789px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 91px;
+    height: 91px;
+    margin-top: 53px;
+    margin-right: 23px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 351px;
+    height: 361px;
+    margin-top: 24px;
+    margin-left: -11px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 329px;
+    width: 329px;
+    margin-top: -345px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 755px;
+    margin-bottom: 53px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+  }
+}
