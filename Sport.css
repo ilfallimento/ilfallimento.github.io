@@ -1,112 +1,116 @@
-.u-section-1 {
-  background-image: linear-gradient(#f6b6c9, #c45888);
+ .u-section-1 {
+  background-image: linear-gradient(rgba(150,217,145,0.42), rgba(10,182,7,0.75));
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 2004px;
+  min-height: 2534px;
 }
 
 .u-section-1 .u-shape-1 {
   width: 115px;
   height: 115px;
-  margin: 73px 123px 0 auto;
+  margin: 81px 70px 0 auto;
 }
 
 .u-section-1 .u-shape-2 {
   width: 788px;
   height: 737px;
   background-image: none;
-  margin: -130px auto 0 0;
+  margin: -144px auto 0 19px;
 }
 
 .u-section-1 .u-image-1 {
   width: 637px;
   height: 637px;
-  background-image: url("images/IDirittidelleDonne1.jpg");
+  background-image: url("images/Droghe-e-sostanze-stupefacenti-800x400-800x400-1.jpg");
   background-position: 50% 50%;
-  margin: -699px auto 0 51px;
+  margin: -687px auto 0 95px;
 }
 
 .u-section-1 .u-group-1 {
-  min-height: 1111px;
+  min-height: 1277px;
   width: 1129px;
-  height: auto;
-  margin: 81px 0 60px auto;
+  margin: 70px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px 30px 19px;
+  padding: 30px 30px 0;
 }
 
 .u-section-1 .u-text-1 {
   font-size: 3rem;
   font-weight: 700;
-  margin: 49px 0 0 auto;
+  margin: 52px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
   line-height: 2;
   font-size: 1.25rem;
-  margin: 41px 0 0;
+  margin: 38px 0 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1475px;
+    min-height: 2617px;
   }
 
   .u-section-1 .u-shape-1 {
-    margin-top: 102px;
+    margin-top: 49px;
     margin-right: 99px;
   }
 
   .u-section-1 .u-shape-2 {
     width: 695px;
     height: 635px;
+    margin-top: -134px;
+    margin-left: -12px;
   }
 
   .u-section-1 .u-image-1 {
     width: 573px;
     height: 573px;
-    margin-top: -629px;
-    margin-left: 71px;
+    margin-top: -616px;
+    margin-left: 58px;
   }
 
   .u-section-1 .u-group-1 {
-    width: 940px;
-    height: auto;
+    min-height: 1519px;
+    margin-top: 43px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1515px;
+    min-height: 2896px;
   }
 
   .u-section-1 .u-shape-1 {
-    margin-top: 73px;
-    margin-right: 60px;
+    margin-right: auto;
+    margin-left: 25px;
   }
 
   .u-section-1 .u-shape-2 {
-    width: 720px;
     height: 621px;
-    margin-top: 20px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-image-1 {
-    width: 574px;
-    height: 574px;
-    margin-top: -587px;
+    width: 554px;
+    height: 554px;
     margin-left: auto;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 610px;
-    margin-top: 20px;
+    min-height: 1907px;
+    margin-bottom: 43px;
+    width: auto;
     margin-right: initial;
     margin-left: initial;
-    width: auto;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -117,8 +121,8 @@
   .u-section-1 .u-text-1 {
     width: auto;
     margin-top: 0;
-    margin-left: 37px;
     margin-right: 37px;
+    margin-left: 1px;
   }
 
   .u-section-1 .u-text-2 {
@@ -128,29 +132,27 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1459px;
+    min-height: 2437px;
   }
 
   .u-section-1 .u-shape-1 {
-    margin-top: 39px;
     margin-right: 50px;
   }
 
   .u-section-1 .u-shape-2 {
     height: 520px;
-    width: 520px;
-    margin-top: 39px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-image-1 {
     height: 456px;
     width: 456px;
-    margin-top: -488px;
   }
 
   .u-section-1 .u-group-1 {
     min-height: 668px;
-    margin-top: 39px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -160,36 +162,38 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 37px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2789px;
+    min-height: 3026px;
   }
 
   .u-section-1 .u-shape-1 {
     width: 91px;
     height: 91px;
-    margin-top: 53px;
-    margin-right: 23px;
+    margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-1 .u-shape-2 {
-    width: 351px;
     height: 361px;
-    margin-top: 24px;
-    margin-left: -11px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-1 .u-image-1 {
-    height: 329px;
-    width: 329px;
-    margin-top: -345px;
+    height: 276px;
+    width: 276px;
   }
 
   .u-section-1 .u-group-1 {
-    min-height: 755px;
-    margin-bottom: 53px;
+    min-height: 2515px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -197,8 +201,8 @@
 
   .u-section-1 .u-text-1 {
     font-size: 2.25rem;
-    margin-left: auto;
     margin-right: auto;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-2 {
